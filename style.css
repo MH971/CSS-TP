@@ -1,1 +1,14 @@
+body {
+  margin: 20px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.bandeau {
+  background-color: #1a4b8c;
+  color: white;
+  padding: 15px;
+  font-weight: bold;
+}
+
 
